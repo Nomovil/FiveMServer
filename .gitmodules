@@ -1,0 +1,3 @@
+[submodule "CopChase"]
+	path = CopChase
+	url = https://github.com/Nomovil/CopChase.git
